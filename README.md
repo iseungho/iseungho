@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://solved.ac/ghehf51/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghehf51" height="150"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghehf51" height="200"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseungho&layout=compact" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iseungho&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseungho&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iseungho&show_icons=true" height="200"/>
 </p>
 # 💪Skills
 ### Platforms & Languages
