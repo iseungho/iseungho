@@ -58,4 +58,3 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-007ACC.svg?&style=for-the-badge&logo=WebStorm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
