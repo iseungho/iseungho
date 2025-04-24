@@ -2,13 +2,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iseungho's%20GitHub&descAlignY=51&descAlign=62"/>
 </p>
+<h2 align="center">👋 안녕하세요!</h2>
 
 <p align="center">
-  👋 안녕하세요 제 이름은 <strong>이승호</strong> 입니다.<br/>
-  현재 취업 준비 중이며 열심히 배우려는 자세로<br/>
-  학업에 임하고 있습니다!
+  저는 <strong>이승호</strong>입니다.<br/>
+  현재 <strong>개발자 취업 준비</strong> 중이며,<br/>
+  항상 <em>겸손한 태도</em>와 <em>열정</em>으로 학습에 임하고 있습니다. 📚<br/><br/>
+  새로운 기술을 배우는 것을 즐기며,<br/>
+  문제 해결과 성장을 위해 끊임없이 노력하고 있습니다. 📈
 </p>
-
 <p align="center">
   <a href="https://solved.ac/ghehf51/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghehf51" height="200"/>
@@ -16,6 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseungho&layout=compact" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=iseungho&show_icons=true" height="200"/>
 </p>
+
 # 💪Skills
 ### Platforms & Languages
 <div align=center> 
