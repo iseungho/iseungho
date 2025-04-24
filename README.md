@@ -11,13 +11,19 @@
   새로운 기술을 배우는 것을 즐기며,<br/>
   문제 해결과 성장을 위해 끊임없이 노력하고 있습니다. 📈
 </p>
-<p align="center">
+<div align="center">
   <a href="https://solved.ac/ghehf51/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghehf51" height="200"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghehf51" width="400"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseungho&layout=compact" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iseungho&show_icons=true" height="200"/>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseungho&layout=compact" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iseungho&show_icons=true" width="400"/>
+</div>
 
 # 💪Skills
 ### Platforms & Languages
@@ -56,8 +62,11 @@
 
 
 # 🛠️Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-232F3E?.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-007ACC.svg?&style=for-the-badge&logo=WebStorm&logoColor=white)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-232F3E.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/WebStorm-007ACC.svg?&style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm"/>
+</div>
